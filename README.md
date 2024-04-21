@@ -11,7 +11,7 @@ Cobra Chase is a simple Flutter game where you control a snake to chase food and
 
 ## Screenshots
 
-![Cobra Chase](https://github.com/Muhammad-Ali-Khokhar/Cobra-Chase/blob/main/Android%20Mobile%20App.png)
+![Cobra Chase](https://github.com/Muhammad-Ali-Khokhar/Cobra-Chase/blob/master/Android%20Mobile%20App.png)
 
 ## Getting Started
 
