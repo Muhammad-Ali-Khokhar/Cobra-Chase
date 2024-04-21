@@ -1,16 +1,24 @@
-# cobra_chase
+# Cobra Chase
 
-A new Flutter project.
+Cobra Chase is a simple Flutter game where you control a snake to chase food and grow longer. Enjoy the classic gameplay and test your reflexes!
+
+## Features
+
+- Simple and addictive gameplay
+- Two screens: SplashScreen and SnakeGameScreen
+- Smooth controls for snake movement
+- Increasing difficulty as the snake grows longer
+
+## Screenshots
+
+![Cobra Chase](https://github.com/Muhammad-Ali-Khokhar/Cobra-Chase/blob/main/Android%20Mobile%20App.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+2. Navigate to the project directory
+3. Run the app
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
